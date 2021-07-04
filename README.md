@@ -10,14 +10,11 @@ chinomnsoawazie/chinomnsoawazie is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-<div>
   
   <a href="https://github.com/chinomnsoawazie/github-readme-stats" />
-    <img src='
-https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true' style='max-width:100%' alt="Chinomnso's github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true)%5D(https://github.com/chinomnsoawazie/github-readme-stats" width="500" height="200": alt="Chinomnso's github stats" />
     
     
     
   
-  </div>
 
