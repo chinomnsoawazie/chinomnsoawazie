@@ -5,14 +5,4 @@
 - &ensp;💞️ &ensp;I’m looking to collaborate on enviromental and social justice oriented projects. Social media stuff with some humane values in it makes the cut too. Fintech maybe... 🤔 
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
 
-<!---
-chinomnsoawazie/chinomnsoawazie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true" width="500" height="200": alt="Chinomnso's github stats" />
-    
-    
-    
-  
-
+<img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true" alt="Girl in a jacket" width="500" height="200">
