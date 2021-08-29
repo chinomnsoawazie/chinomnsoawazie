@@ -1,8 +1,27 @@
-- &ensp;👋 &ensp; Hi, I’m Chinomnso Awazie
-- &ensp;👀 &ensp;I’m interested in machine learing, AI, data science, IoT, RPA, VR & AR, product design, and environmental justice.
-- &ensp;🛠 &ensp;I work with React (with Redux), React Native, TypeScript, JavaScript, Kotlin, Ruby, Rails, Python, AWS, GCP, GraphQL and of course SQL.
-- &ensp;🌱 &ensp; Currently learning some Azure technologies: I want to be able to pick and mix tools from from the "Big Three" (AWS, GCP, and Azure) to create solutions that make the most economical and engineering sense. Hopefully, the cloud's "Big Three" don't collaborate on price fixing and relative tech benchmarking anytime soon.
-- &ensp;💞️ &ensp;I’m looking to collaborate on enviromental and social justice oriented projects. Social media stuff with some humane values in it makes the cut too. Fintech maybe... 🤔 
+- 👋 &ensp; Hi, I’m Chinomnso Awazie
+
+- 👀 &ensp;I’m <strong>interested</strong> in machine learing, AI, data science, IoT, RPA, VR & AR, product design, and environmental justice
+
+- 🛠 &ensp;Technologies I <strong>work</strong> with include;<br/>
+&ensp;- &ensp;  <strong>Frameworks:</strong> React (with Redux), React Native(with Redux), Rails, Sinatra<br/>
+&ensp;- &ensp;  <strong>Languages:</strong> TypeScript, JavaScript, Ruby, Kotlin, Python, SQL, GraphQL <br/>
+&ensp;- &ensp;  <strong>Platforms:</strong> AWS, GCP, Firebase <br/>
+
+- 🌱 &ensp; Stuff I am currently <strong>learning</strong> or <strong>pursuing</strong>:<br/>
+&ensp;- &ensp; <strong>Azure</strong>: Motivation - mix AWS, GCP, and Azure tools to create solutions that make the most economical & engineering sense.<br/>
+&ensp;- &ensp; <strong>Machine Learning</strong>: Motivation - Get better at making data work for common good and the bottom line<br/>
+&ensp;- &ensp; <strong>AWS Certifications</strong>: Motivation - Know the AWS platform inside-out
+
+- &ensp;💞️ &ensp;I’m looking to <strong>collaborate</strong> on <br/>
+&ensp;&ensp;&ensp;&ensp;- &ensp; Enviromental and social justice oriented projects<br/>
+&ensp;&ensp;&ensp;&ensp;- &ensp; Social media stuff with some humane values in it makes the cut too<br/>
+&ensp;&ensp;&ensp;&ensp;- &ensp; Fintech maybe... 🤔
+
+- &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/>
+&ensp;&ensp;&ensp;&ensp;- &ensp;<img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="Girl in a jacket" width="15" height="15">   <a href="https://www.w3schools.com" target=_blank>AWS Certified Cloud Practitioner</a>
+ <br/>
+
+
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true" alt="Girl in a jacket" width="500" height="200"> -->
