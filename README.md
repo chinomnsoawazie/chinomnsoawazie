@@ -18,7 +18,7 @@
 &ensp;&ensp;&ensp;&ensp;- &ensp; Fintech maybe... 🤔
 
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/>
-&ensp;&ensp;&ensp;&ensp;- &ensp;<img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="Girl in a jacket" width="15" height="15">   <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target="blank">AWS Certified Cloud Practitioner</a>
+&ensp;&ensp;&ensp;&ensp;- &ensp;<img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="Girl in a jacket" width="15" height="15">   <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank>AWS Certified Cloud Practitioner</a>
  <br/>
 
 
