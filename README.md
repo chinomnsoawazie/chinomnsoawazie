@@ -20,6 +20,9 @@
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/> <br/>
 <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="100" height="100"> <strong>verify certification</strong></a>
  <br/>
+ 
+ <a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="100" height="100"> <strong>verify certification</strong></a>
+ <br/>
 
 
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
