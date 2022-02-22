@@ -26,4 +26,8 @@
 
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true" alt="Girl in a jacket" width="500" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true" alt="Girl in a jacket" width="500" height="200"> <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinomnsoawazie)](https://git.io/streak-stats)
+
+
