@@ -26,7 +26,15 @@
 
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true" alt="Girl in a jacket" width="500" height="200"> <br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-frontend)](https://github.com/chinomnsoawazie/github-readme-stats)
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-backend)](https://github.com/chinomnsoawazie/github-readme-stats)
+<br/>
+
+![Chinomnso's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true&theme=tokyonight)
+ <br/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinomnsoawazie&theme=highcontrast)](https://git.io/streak-stats)
 
