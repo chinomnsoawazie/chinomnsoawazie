@@ -47,6 +47,6 @@
 
 <br/>
 
-[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie)](https://github.com/chinomnsoawazie/github-readme-stats)
+[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&custom_title=Hello)](https://github.com/chinomnsoawazie/github-readme-stats)
 
 
