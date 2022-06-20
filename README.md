@@ -51,6 +51,6 @@
 
 <br/>
 
-[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&layout=compact&custom_title=My+Wakatime+Stats+In+The+Last+30+Days&langs_count=10)](https://github.com/chinomnsoawazie/github-readme-stats)
+[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&layout=compact&custom_title=My+Wakatime+Stats+In+The+Last+30+Days)](https://github.com/chinomnsoawazie/github-readme-stats)
 
 
