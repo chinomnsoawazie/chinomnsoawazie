@@ -51,6 +51,6 @@
 
 <br/>
 
-[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&custom_title=My+Weekly+Wakatime+Stats&range=last_7_days)](https://github.com/chinomnsoawazie/github-readme-stats)
+[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&layout=compact)](https://github.com/chinomnsoawazie/github-readme-stats)
 
 
