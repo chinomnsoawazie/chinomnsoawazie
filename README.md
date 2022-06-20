@@ -33,12 +33,12 @@
 
 </div>
 
-
+<!-- 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-frontend)](https://github.com/chinomnsoawazie/github-readme-stats)
 <br/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-backend)](https://github.com/chinomnsoawazie/github-readme-stats)
-<br/>
+<br/> -->
 
 ![Chinomnso's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true&theme=tokyonight)
  <br/>
