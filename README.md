@@ -1,5 +1,3 @@
-
- 
 - 👋 &ensp; Hi, I’m Chinomnso Awazie
 
 - 👀 &ensp;I’m <strong>interested</strong> in machine learing, AI, Cloud computing, data science, IoT, RPA, VR & AR, product design, and environmental justice
@@ -7,7 +5,7 @@
 - 🛠 &ensp;Technologies I <strong>work</strong> with include;<br/>
 &ensp;- &ensp;  <strong>Frameworks:</strong> React (with Redux), React Native(with Redux), Rails, Sinatra<br/>
 &ensp;- &ensp;  <strong>Languages:</strong> TypeScript, JavaScript, Ruby, Kotlin, Python, SQL, GraphQL <br/>
-&ensp;- &ensp;  <strong>Cloud:</strong> AWS, GCP <br/>
+&ensp;- &ensp;  <strong>Platforms:</strong> AWS, GCP, Firebase <br/>
 
 - 🌱 &ensp; Stuff I am currently <strong>learning</strong> or <strong>pursuing</strong>:<br/>
 &ensp;- &ensp; <strong>Azure</strong>: Motivation - mix AWS, GCP, and Azure tools to create solutions that make the most economical & engineering sense.<br/>
@@ -21,9 +19,7 @@
 
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/> <br/>
 
-<div style="color:red">
- <p style="color:red;">This is a paragraph.</p>
-
+<div classname="flex-row">
  <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
 <a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
  </div>
@@ -35,6 +31,19 @@
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
 
 
+<div id="wrap">
+ <div> </div>
+
+
+</div>
+
+<!-- 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-frontend)](https://github.com/chinomnsoawazie/github-readme-stats)
+<br/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-backend)](https://github.com/chinomnsoawazie/github-readme-stats)
+<br/> -->
+
 ![Chinomnso's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true&theme=tokyonight)
  <br/>
 
@@ -42,4 +51,6 @@
 
 <br/>
 
-[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&custom_title=My+Weekly+Wakatime+Stats&is_including_today=true)](https://github.com/chinomnsoawazie/github-readme-stats)
+[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&custom_title=My+Weekly+Wakatime+Stats&range=last_7_days)](https://github.com/chinomnsoawazie/github-readme-stats)
+
+
