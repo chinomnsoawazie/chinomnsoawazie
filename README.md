@@ -50,7 +50,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinomnsoawazie&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
 
 <br/>
-
-[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&layout=compact&custom_title=My+Wakatime+Stats+In+The+Last+30+Days&hide=Makefile,MATLAB,IDEA_MODULE,Groovy,XML,GitIgnore+file,yarn.lock,C++++,Objective-C,textmate,Bash,Text)](https://github.com/chinomnsoawazie/github-readme-stats)
+<!-- 
+[![chinomnsoawazie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chinomnsoawazie&layout=compact&custom_title=My+Wakatime+Stats+In+The+Last+30+Days&hide=Makefile,MATLAB,IDEA_MODULE,Groovy,XML,GitIgnore+file,yarn.lock,C++++,Objective-C,textmate,Bash,Text)](https://github.com/chinomnsoawazie/github-readme-stats) -->
 
 
