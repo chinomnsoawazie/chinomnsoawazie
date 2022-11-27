@@ -20,8 +20,13 @@
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/> <br/>
 
 <div classname="flex-row">
- <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
-<a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
+ <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> 
+<img src="https://user-images.githubusercontent.com/26738901/204118521-35ff51ce-39fc-465c-acfd-c3fb2c00af1c.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
+<a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> 
+ 
+ 
+ 
+ <img src="https://images.credly.com/size/340x340/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
  </div>
 
 <a href="https://www.credly.com/badges/464fc7bd-c6e5-46e0-9d24-f03c331d2562/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="100" height="100"> <strong>verify certification</strong></a>
