@@ -22,11 +22,12 @@
 <div classname="flex-row">
  <a href="https://www.credly.com/badges/d3bf7db7-9a41-4082-bab1-152ab9a5dfd2/public_url" target=blank> 
 <img src="https://user-images.githubusercontent.com/26738901/204118521-35ff51ce-39fc-465c-acfd-c3fb2c00af1c.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
+ 
+ 
 <a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> 
- 
-
- 
  <img src="https://user-images.githubusercontent.com/26738901/204118634-7bce8d10-6304-427d-86cd-1cd350df0986.png" width="100" height="100"> <strong>verify certification</strong></a><br/><br/><br/>
+ 
+ 
  </div>
 
 <a href="https://www.credly.com/badges/4d7cf330-97e0-4b68-909f-4213e946440a/public_url" target=blank> <img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="100" height="100"> <strong>verify certification</strong></a>
