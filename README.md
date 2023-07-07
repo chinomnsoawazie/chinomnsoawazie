@@ -49,9 +49,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-backend)](https://github.com/chinomnsoawazie/github-readme-stats)
 <br/> -->
 
-![Chinomnso's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinomnsoawazie&count_private=true&show_icons=true&theme=tokyonight)
- <br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chinomnsoawazie&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
 
 <br/>
