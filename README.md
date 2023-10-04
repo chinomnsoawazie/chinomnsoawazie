@@ -50,6 +50,7 @@
 <br/> -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chinomnsoawazie)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chinomnsoawazie&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <br/>
 <!-- 
