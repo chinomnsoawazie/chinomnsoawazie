@@ -41,12 +41,12 @@
 
 
 </div>
-
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-frontend)](https://github.com/chinomnsoawazie/github-readme-stats)
 <br/>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chinomnsoawazie&repo=AfroPanTrack-backend)](https://github.com/chinomnsoawazie/github-readme-stats)
 <br/>
+-->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chinomnsoawazie)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chinomnsoawazie&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=highcontrast)](https://git.io/streak-stats)
 
