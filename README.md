@@ -8,7 +8,7 @@
 &ensp;- &ensp;  <strong>Platforms:</strong> AWS, GCP, Firebase <br/>
 
 - 🌱 &ensp; Stuff I am currently <strong>learning</strong> or <strong>working on</strong>:<br/>
-&ensp;- &ensp; <strong>Station Locate</strong>: Motivation - Help create solutions that will aid EV adoption rates.<br/>
+&ensp;- &ensp; <strong>Station Locate - a multi-platform mobile app</strong>: Motivation - Help create solutions that will aid EV adoption rates.<br/>
 &ensp;- &ensp; <strong>AWS Certifications</strong>: Motivation - Know the AWS platform inside-out
 
 
