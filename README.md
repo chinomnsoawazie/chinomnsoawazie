@@ -8,8 +8,7 @@
 &ensp;- &ensp;  <strong>Platforms:</strong> AWS, GCP, Firebase <br/>
 
 - 🌱 &ensp; Stuff I am currently <strong>learning</strong> or <strong>pursuing</strong>:<br/>
-&ensp;- &ensp; <strong>Azure</strong>: Motivation - mix AWS, GCP, and Azure tools to create solutions that make the most economical & engineering sense.<br/>
-&ensp;- &ensp; <strong>Machine Learning</strong>: Motivation - Get better at making data work for common good and the bottom line<br/>
+&ensp;- &ensp; <strong>Station Locate</strong>: Motivation - Help create solutions that will aid EV adoption rates.<br/>
 &ensp;- &ensp; <strong>AWS Certifications</strong>: Motivation - Know the AWS platform inside-out
 
 
