@@ -12,10 +12,7 @@
 &ensp;- &ensp; <strong>Machine Learning</strong>: Motivation - Get better at making data work for common good and the bottom line<br/>
 &ensp;- &ensp; <strong>AWS Certifications</strong>: Motivation - Know the AWS platform inside-out
 
-- &ensp;💞️ &ensp;I’m looking to <strong>collaborate</strong> on <br/>
-&ensp;&ensp;&ensp;&ensp;- &ensp; Enviromental and social justice oriented projects<br/>
-&ensp;&ensp;&ensp;&ensp;- &ensp; Social media stuff with some humane values in it makes the cut too<br/>
-&ensp;&ensp;&ensp;&ensp;- &ensp; Fintech maybe... 🤔 <br/>
+
 
 - &ensp; 🎓 &ensp;<strong>Certifications</strong> <br/> <br/>
 
