@@ -1,6 +1,6 @@
 - 👋 &ensp; Hi, I’m Chinomnso Awazie
 
-- 👀 &ensp;I’m <strong>interested</strong> in machine learing, AI, Cloud computing, data science, IoT, RPA, VR & AR, product design, and environmental justice
+- 👀 &ensp;I’m <strong>interested</strong> in ML, AI, Cloud computing, IoT, VR & AR, product design, and environmental justice
 
 - 🛠 &ensp;Technologies I <strong>work</strong> with include;<br/>
 &ensp;- &ensp;  <strong>Frameworks:</strong> React (with Redux), React Native(with Redux), Rails, Sinatra<br/>
