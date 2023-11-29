@@ -29,7 +29,35 @@
 
  </div>
 
+📱 &ensp;<strong>Apps</strong> <br/> <br/>
+ &ensp;  &ensp;<strong>Station Locate App</strong> <br/> 
+
+ Station Locate is an app that helps EV drivers and owner search for EV charging stations, see information about them, and navigate to them using a navigation app of their choice.
+
+<div>
+ <a href="https://apps.apple.com/us/app/station-locate/id6469472521?itsct=apps_box_badge&amp;itscg=30200"
+					 target='_blank'
+					 rel="noreferrer"
+				  >
+					<img
+      width="200" height="100" 
+						className='rounded-xl h-12 md:h-24 w-32 lg:w-64 md:w-64'
+						src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1697673600"
+						alt="Download on the App Store"/></a>
+				  <a href='https://play.google.com/store/apps/details?id=com.stationlocatemobilev10&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'
+					 target='_blank'
+					 rel="noreferrer"
+				  >
+					<img
+      width="250" height="100" 
+						src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'
+						alt='Get it on Google Play'/></a>
+				</div><br/> <br/>
+
+
 - 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
+
+ <br/> <br/>
 
 
 <div id="wrap">
