@@ -55,7 +55,6 @@
 				</div><br/> <br/>
 
 
-- 📫 &ensp; How to reach me - 📨 Email: coawazie@gmail.com
 
  <br/> <br/>
 
